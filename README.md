@@ -6,11 +6,11 @@
 <a href="#"><img title="Jimbrootan🧞‍♂️" src="https://img.shields.io/badge/Jimbrootan%F0%9F%A7%9E%E2%80%8D%E2%99%82%EF%B8%8F-blueviolet?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Mikhaiel"><img title="Author" src="https://img.shields.io/badge/Author-Mikhaiel-Offical/Jimbrootan?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/FAYA-SER"><img title="Author" src="https://img.shields.io/badge/Author-FAYA-SER-Offical/Jimbrootan?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-  Project created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it public
+  Project created by <a href="https://github.com/FAYA-SER">FAYA-SER</a> to make it public
     <br>
        © Reserved 
     <br>
@@ -19,13 +19,13 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Mikhaiel/Jinnh-">
-    <img src="https://img.shields.io/github/repo-size/Mikhaiel/Jinnh?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/FAYA-SER/kelly-">
+    <img src="https://img.shields.io/github/repo-size/FAYA-SER/Jinnh?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Mikhaiel/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mikhaiel?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mikhaiel/Jinnh?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/FAYA-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/FAYA-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/FAYA-SER/kelly-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FAYA-SER/Jinnh?color=blue&style=flat-square"></a>
+<a href="https://github.com/FAYA-SER/kelly-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FAYA-SER/Jinnh?color=blue&style=flat-square"></a>
+<a href="https://github.com/FAYA-SER/kelly-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FAYA-SER/Jinnh?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -37,7 +37,7 @@ If You Face Any Problem Contact Me on WhatsApp  👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/+919544846609)
   <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhaiel&repo=Jinnh&theme=nightowl)](https://github.com/Mikhaiel/Jinnh)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FAYA-SER&repo=Jinnh&theme=nightowl)](https://github.com/FAYA-SER/Jinnh)
   </div>
 
 ## Setup
@@ -45,9 +45,9 @@ If You Face Any Problem Contact Me on WhatsApp  👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Mikhaiel/Jimbrootan)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@FAYA-SER/Jimbrootan)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/realmikhaiel/Jinnh-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/realFAYA-SER/kelly-)
      </div>
 <br>
 <br >
@@ -56,7 +56,7 @@ If You Face Any Problem Contact Me on WhatsApp  👇
 
 <div align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Mikhaiel/JIMBROOTAN)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@FAYA-SER/JIMBROOTAN)
 
 </div>
 
